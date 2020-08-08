@@ -2,7 +2,7 @@
 
 This sample is published as part of the blog article at https://vntalking.com:
 
-- https://vntalking.com/tao-secure-rest-api-voi-nodejs
+- https://vntalking.com/tao-secure-rest-api-voi-nodejs.html
 
 Visit www.toptal.com/blog and subscribe to our newsletter to read great posts
 
