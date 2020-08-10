@@ -4,8 +4,6 @@ This sample is published as part of the blog article at https://vntalking.com:
 
 - https://vntalking.com/huong-dan-tao-secure-rest-api-trong-node-js.html
 
-Visit www.toptal.com/blog and subscribe to our newsletter to read great posts
-
 ## Before using
 
 - Please make sure that you have:
